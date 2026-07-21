@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Gabriel%20Arthur&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=55"/>
 
-<h1 align="center">Hello👋, I Gabriel Arthur</h1>
+<h1 align="center">Hello👋, I am Gabriel Arthur</h1>
 
 <h3 align="center">
 💻 Desenvolvedor Full Stack em Formação | 🎓 Estudante de ADS | 🚀 Apaixonado por Tecnologia
