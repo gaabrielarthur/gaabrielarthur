@@ -44,7 +44,7 @@ Conquistar minha primeira oportunidade como Desenvolvedor Full Stack e construir
 
 ---
 
-# 💻Front and
+# 💻Front end
 
 <div align="center">
 
