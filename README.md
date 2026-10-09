@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Gabriel%20Arthur&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=55"/>
 
-<h1 align="center">Hello👋, I am Gabriel Arthur</h1>
+<h1 align="center">Hello👋, I Gabriel Arthur</h1>
 
 <h3 align="center">
 💻 Desenvolvedor Full Stack em Formação | 🎓 Estudante de ADS | 🚀 Apaixonado por Tecnologia
@@ -31,10 +31,7 @@
 📚 Atualmente estudando:
 
 - java
-- Spring Boot
 - JavaScript
-- TypeScript
-- React
 - Node.js
 - Git & GitHub
 
@@ -44,7 +41,7 @@ Conquistar minha primeira oportunidade como Desenvolvedor Full Stack e construir
 
 ---
 
-# 💻Front end
+# 💻Front and
 
 <div align="center">
 
@@ -52,8 +49,6 @@ Conquistar minha primeira oportunidade como Desenvolvedor Full Stack e construir
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 </div>
 
 ---
@@ -61,12 +56,10 @@ Conquistar minha primeira oportunidade como Desenvolvedor Full Stack e construir
 
 <div align="center>
 
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 </div>
 
 ---
@@ -95,7 +88,7 @@ Conquistar minha primeira oportunidade como Desenvolvedor Full Stack e construir
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,eclipseIDE/>
 
 
 </div>
@@ -106,25 +99,10 @@ Conquistar minha primeira oportunidade como Desenvolvedor Full Stack e construir
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=,typescript,javascript,java,postgresql"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,postgresql"/>
 
 </div>
 
----
-
-# 🎯 Próximos Projetos
-
-✅ Landing Pages Responsivas
-
-✅ APIs REST com Node.js
-
-✅ Sistema de Login
-
-✅ Dashboard Administrativo
-
-✅ CRUD Completo
-
-✅ Projetos com React
 
 ---
 
