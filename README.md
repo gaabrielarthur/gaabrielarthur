@@ -78,13 +78,15 @@ Conquistar minha primeira oportunidade como Desenvolvedor Full Stack e construir
 ---
 
 # 📈 Gráfico de Atividade
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaabrielarthur&theme=tokyo-night&hide_border=true"/>
+<img width="53%" src="https://github-readme-stats.vercel.app/api?username=gaabrielarthur&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielarthur&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
 
 </div>
 
+---
 
 ---
 
